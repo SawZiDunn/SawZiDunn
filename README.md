@@ -1,6 +1,3 @@
-## Hi there!👋
-I'm Saw Zi Dunn.
+# Hi there! 👋 I'm Saw Zi Dunn
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SawZiDunn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SawZiDunn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+I'm a developer passionate about building meaningful software and exploring new technologies. Welcome to my GitHub profile where I share my projects and experiments.
